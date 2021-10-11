@@ -22,7 +22,12 @@ mt_class_lobby_open_30mins_before_url==https://tsh.onelink.me/fkK9/dc737c8e?tick
 mt_class_class_open_url==https://tsh.onelink.me/fkK9/dc737c8e?ticket=4XE1HBSMLknFQPnMi-3r8kSY0lBowustV1JBjycuYSmMiB4JC-gIdBo4KQrBy4l2&forceTime=2041-04-30T06:00:00.000Z
 mt_class_class_end_url==https://tsh.onelink.me/fkK9/dc737c8e?ticket=4XE1HBSMLknFQPnMi-3r8kSY0lBowustV1JBjycuYSmMiB4JC-gIdBo4KQrBy4l2&forceTime=2041-04-30T07:29:00.000Z
 mt_class_lobby_end_url==https://tsh.onelink.me/fkK9/dc737c8e?ticket=4XE1HBSMLknFQPnMi-3r8kSY0lBowustV1JBjycuYSmMiB4JC-gIdBo4KQrBy4l2&forceTime=2041-04-30T07:44:00.000Z
+
 mt_class_lobby_end_30mins_after_url==https://tsh.onelink.me/fkK9/dc737c8e?ticket=4XE1HBSMLknFQPnMi-3r8kSY0lBowustV1JBjycuYSmMiB4JC-gIdBo4KQrBy4l2&forceTime=2041-04-30T08:15:00.000Z
+
 mt_class_before_10days_url==https://tsh.onelink.me/fkK9/dc737c8e?ticket=4XE1HBSMLknFQPnMi-3r8kSY0lBowustV1JBjycuYSmMiB4JC-gIdBo4KQrBy4l2&forceTime=2041-04-20T06:45:00.000Z
+
 mt_class_lobby_open_before_1min_url==https://tsh.onelink.me/fkK9/dc737c8e?ticket=4XE1HBSMLknFQPnMi-3r8kSY0lBowustV1JBjycuYSmMiB4JC-gIdBo4KQrBy4l2&forceTime=2041-04-30T05:44:30.000Z
+
 mt_class_lobby_end_before_1min_url==https://tsh.onelink.me/fkK9/dc737c8e?ticket=4XE1HBSMLknFQPnMi-3r8kSY0lBowustV1JBjycuYSmMiB4JC-gIdBo4KQrBy4l2&forceTime=2041-04-30T07:44:30.000Z
+
